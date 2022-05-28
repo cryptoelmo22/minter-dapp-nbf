@@ -66,11 +66,11 @@ const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
-// ** OPTIONAL **
-let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
+// ** OPTIONAL.. NOPE.. Def needed ** 
+let CONTRACT_ADDRESS = "0xD640874D9511e0f22eB184f34ba4C6bFC5892105"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
-const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
+const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "Does it Matter?"; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = ""; // Replace with your generic image that will display for all NFTs pre-reveal.
