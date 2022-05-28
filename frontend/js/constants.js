@@ -1,12 +1,12 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x837Ff71F2B3743B27E1f1278EfA9b8635e00Db06"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_h1 = "Nothing But Flex";
+const welcome_h2 = "Connect Wallet to Get Started";
+const welcome_p = 'Welcome to the NBF Project - the 500 NFTs that are designed to have NO utility - Mint prices are ridiculous and royalties are set to 20%. But it DOES give the owners the right to flex..... 💪';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const h1_public_mint = "Public Minting Open!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
